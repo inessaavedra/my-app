@@ -1,8 +1,9 @@
 ## Setup
 ### Packages
 - npx 8.15.0
-- gapi-script ?
-- react-google-login ?
+- yarn 1.22.19
+- gapi-script 1.2.0
+- react-google-login 5.2.2
 
 ### Running the App
 `npm start`
