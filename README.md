@@ -17,3 +17,6 @@
 
 ### Twitter
 - https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets
+
+### Botometer
+- https://github.com/keithcollins/node-botometer
