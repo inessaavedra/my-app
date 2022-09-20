@@ -4,7 +4,7 @@ import { GoogleLogin, GoogleLogout } from 'react-google-login';
 import { gapi } from 'gapi-script';
 
 function App() {
-  const [ profile, setProfile ] = useState([]);
+    const [ profile, setProfile ] = useState([]);
     const clientId = '641025495263-v4ecc711l27fimo1pue425s3k97qe3o7.apps.googleusercontent.com';
     useEffect(() => {
         const initClient = () => {

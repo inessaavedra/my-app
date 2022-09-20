@@ -15,6 +15,9 @@
 ### Google
 - https://blog.logrocket.com/guide-adding-google-login-react-app/
 
+### Firebase
+- https://blog.logrocket.com/user-authentication-firebase-react-apps/
+
 ### Twitter
 - https://developer.twitter.com/en/docs/tutorials/building-an-app-to-stream-tweets
 
