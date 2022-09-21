@@ -1,3 +1,4 @@
+## Software Miniproject: Haoming Yi and Inés Saavedra
 ## Setup
 ### Packages
 - npx 8.15.0
